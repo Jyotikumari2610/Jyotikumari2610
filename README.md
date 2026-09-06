@@ -37,7 +37,7 @@ I’m currently focused on strengthening my **Data Structures & Algorithms, Java
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb" />
 </p>
 
 ### Tools & Platforms
