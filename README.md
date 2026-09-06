@@ -94,20 +94,7 @@ Currently working on building strong problem-solving fundamentals.
 `Arrays` • `Strings` • `Hashing` • `Sorting` • `Searching`
 `Two Pointers` • `Binary Search` • `Linked List` • `Stack` • `Queue`
 
-My focus is on understanding **why an approach works**, along with its **time and space complexity**, rather than simply memorizing solutions.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Jyotikumari2610&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Jyotikumari2610" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Jyotikumari2610" height="170"/>
-</p>
+My focus is on understanding **why an approach works**, along with its **time and space complexity**, rather than simply memorizing solutions. I may take a little more time to learn something, but I believe in learning it **deeply, building strong fundamentals, and turning that patience into long-term understanding**.
 
 ---
 
